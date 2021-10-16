@@ -1,9 +1,7 @@
 <div align = 'center'>
   
-![salmon2 GitHub stats](https://github-readme-stats.vercel.app/api?username=salmon2&show_icons=true)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salmon2)](https://github.com/salmon2/github-readme-stats)
-  
+[![Salmon2's github stats](https://github-readme-stats.vercel.app/api?username=Salmon2)](https://github.com/Salmon2/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salmon2&layout=compact)](https://github.com/Salmon2/github-readme-stats)
   
 
 </div>
