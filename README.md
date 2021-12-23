@@ -47,17 +47,23 @@
 - 팀원 : 3 Frontend(React), 3 Backend(Spring), 2 Designer
 - 관련기술: Spring Boot, GitHub Action, Spring Admin, Spring Data JPA, Querydsl, Mysql, Nginx, AWS EC2, AWS CodeDeploy, Jasypt
 - 역활
-  -	PM역활, 전체 지휘, 의견 조율, 팀 팔로우 업
-  -	전반적인 도메인 설계와 구현
-  -	전반적인 API 설계
-  -	Querydsl 라이브러리를 통한 동적 쿼리 처리와 코드 재사용성과 유지보수성 증가
-  -	Open API와 스케줄링 프로그래밍을 통한 최신 기상 데이터 확보로 추천 서비스의 신뢰성 확보
-  -	Action과 AWS Codedeploy로 CI/CD 무중단 배포 환경 구축으로 서버 안정성 확보
-  -	NginX를 이용하여 SSL 아키텍쳐 구성
-  - Spring Actuator와 Spring Admin을 통한 모니터링 서버 구축
-  -	Jasypt를 이용한 properties 암호화  
-  -	최종 발표 진행 (https://www.youtube.com/watch?v=mB3gAzsY8s4)
-- 작업과정은 [기술블로그](https://eating-salmon.tistory.com/category/%ED%95%AD%ED%95%B499/%EC%8B%A4%EC%A0%84%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)에 정리해두었습니다.
+  - PM역할, 전체 지휘, 의견 조율, 팀 팔로우 업
+  - JPA ORM을 이용한 도메인 설계와 구현
+  - N:M 연관관계를 통한 좋아요/북마크 기능의 유저 중복 체크 로직 구현
+  - Usecase 설계와 메인 시나리오 설계, 사용자 UX에 기반한 Restful API 설계
+  - 동적 쿼리 처리를 위한 Querydsl 라이브러리 도입 결과 코드 재사용성과 유지보수성 증가
+  - Open API를 활용한 서비스 개발
+  - AccuWeather Open API를 활용하여 별 보기 좋은 장소 추천 로직 구현
+    - 구글 Geocoding API를 이용하여 대략적인 주소의 좌표 및 지역 검색 로직 구현
+    - 사용자 위치 기반을 기준으로 거리에 따른 사용자별 별 보기 좋은 장소 로직 구현
+    - 공공데이터 포털 Open API를 이용하여 기상, 천문 서비스 로직 구현
+   - 스케줄링 프로그래밍을 통한 최신 데이터 확보로 추천 서비스의 신뢰성 확보
+  - 서비스 장애와 배포 부담을 줄이기 위해서 Git Action과 codedeploy로 CI/CD 무중단 배포 환경 구축으로 개발 효율성 증가
+  - 웹 보안을 향상시키기 위해서 Nginx를 이용하여 SSL 아키텍쳐 구성
+  - 서버 유지보수를 위해서 Spring Actuator와 Spring Admin을 통한 모니터링 서버 구축
+  - 소스코드 보안을 위해서 Jasypt를 이용, properties 암호화 성공
+  - 최종 발표 진행 (https://bit.ly/hanghae-presentation)
+  - 작업과정은 [기술블로그](https://eating-salmon.tistory.com/category/%ED%95%AD%ED%95%B499/%EC%8B%A4%EC%A0%84%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)에 정리해두었습니다.
 
 
 
