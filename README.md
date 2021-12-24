@@ -4,9 +4,6 @@
 
 [![Salmon2's github stats](https://github-readme-stats.vercel.app/api?username=Salmon2)](https://github.com/Salmon2/github-readme-stats)
 
-## 학력
-- 금오공과대학교 컴퓨터공학과 4학년 휴학(2016 입학)
-- 항해99 3기 수료 (2021.09 ~ 2021.12)
 
 ## SKill
 <div>
