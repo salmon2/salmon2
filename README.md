@@ -1,14 +1,4 @@
-## 소개
-<img src="https://user-images.githubusercontent.com/23234577/146879365-c0a244a4-b116-4ea6-bed9-9071bd45c5a9.jpg"> 
 
-- 이름 : 박기남
-- Github : https://github.com/salmon2
-- Blog : https://eating-salmon.tistory.com
-- Email : dys04076@naver.com
-
->안녕하세요 신입 백엔드 개발자 박기남입니다. 
->
->저는 새로운 기술들을 사용하여 멋진 팀원들과 최선을 다하는 멋진 프로젝트를 진행하는 것을 좋아합니다. “실패에서 배우면 성공이 된다”는 실패에도 배움이 있다는 자세로 끊임없이 공부하고 있으며, 최근에는 공부한 내용들을 블로그에 작성하여 공부하고 있습니다.
 
 👩‍💻 My Github Stats 👩‍💻
 
